@@ -4,6 +4,7 @@
 - Utilizes authorization flow to gain access to users' Spotify information
 - Personalizes user experience based on users' most played songs, top artists, play state
 
+
 This project helped me...
 - Understand authorization
 - Use an outside libaries components for UI
